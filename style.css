@@ -292,3 +292,7 @@ textarea > placeholder {
 .contact-form *::placeholder {
   color: lightcoral;
 }
+
+.greeting {
+  text-align: center;
+}
